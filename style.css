@@ -1,0 +1,32 @@
+#start {
+    height:100px;
+    width:100px;
+    background-color: #c7c7c7;
+    border-radius: 5px;
+    margin-top: 60px;
+}
+#start:hover {
+    color: red;
+}
+.game {
+    height: 500px;
+    width: 500px;
+    background-color: #66CCCC;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 5px;
+    font-size:15px;
+    border-right: 4px solid #669999;
+    border-bottom: 4px solid #669999;
+    border-left: 4px solid #66FFCC;
+    border-top: 4px solid #66FFCC;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
